@@ -14,15 +14,6 @@
 
 - Visual Storytelling: Beautiful data visualizations that speak volumes
 
-## 🚀 Quick Start
-**Clone and explore:**
-
-git clone https://github.com/safikasi/K-Means-Clustering-Project.git
-
-cd K-Means-Clustering-Project
-
-pip install -r requirements.txt
-
 ## 📊 What You'll Discover
 
 - How K-Means identifies clusters in complex education data
@@ -42,6 +33,15 @@ pip install -r requirements.txt
 ![Linear Model](LmPlot.png)
 
 ![Derivations of Data](DATA.png)
+
+## 🚀 Quick Start
+**Clone and explore:**
+
+git clone https://github.com/safikasi/K-Means-Clustering-Project.git
+
+cd K-Means-Clustering-Project
+
+pip install -r requirements.txt
 
 ## 🌐 Connect With Me
 
