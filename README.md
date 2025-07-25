@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%F0%9F%94%8E%201.2%2B-orange)
 ![Machine-Learning](https://img.shields.io/badge/Machine--Learning-K--Means--Clustering-blue)
 
-**An elegant solution for classifying universities into Private and Public categories using K-Means clustering, implemented with love in VS Code.**
+**An elegant solution for classifying universities into Private and Public categories using K-Means clustering.**
 
 ## 🌟 Project Essence
 
